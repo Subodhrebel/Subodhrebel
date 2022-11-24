@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subodhrebel
 - 👀 I’m interested in Digital world
-- 🌱 I’m currently learning C from my college
+- 🌱 I’m currently learning java programming from my college
 - 💞️ I’m looking to collaborate on my page
 - 📫 How to reach me -subodhkumarbthbthbth@gmail.com
 
