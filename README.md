@@ -18,7 +18,7 @@ I’ve already completed several academic projects, and now I’m focusing on re
 
 ## 🔥 Current Focus
 
-### ✅ 60-Day Java Mastery Challenge
+### ✅  Java Mastery Challenge
 - Learning and building in **Core + Advanced Java**
 - Working on hands-on **projects** to strengthen concepts
 - Preparing for **software developer roles**
